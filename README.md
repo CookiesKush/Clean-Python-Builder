@@ -1,2 +1,4 @@
 # Clean-Python-Builder
-Simple yet useful clean python file builder
+
+## About
+Simple yet useful clean python file builder that deletes the uneeded files / folders after compling a python file
