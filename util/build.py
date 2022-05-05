@@ -1,7 +1,7 @@
 import os
 import shutil
 from colorama import Fore
-from util.common.plugins import *
+from util.plugins.common import *
 
 def builder(fileName, scriptName):
     setTitle(f"Compiling {fileName}.py => {scriptName}.exe") 

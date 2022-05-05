@@ -2,7 +2,7 @@ import os
 from time import sleep
 from colorama import Fore
 from util.build import *
-from util.common.plugins import *
+from util.plugins.common import *
 
 
 def main():
