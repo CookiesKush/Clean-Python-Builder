@@ -1,20 +1,48 @@
-# Clean Python Builder
-
-<p align="center">
-  <a href="https://github.com/Callumgm/Discord-Worm/graphs/commit-activity">
-    <img src="https://img.shields.io/badge/maintained-very little-critical?style=flat-square" alt="Maintained very Little" />
+<h1 align="center">Welcome to Clean Python Builder 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-very little-red.svg" />
   </a>
-  <img src="https://img.shields.io/badge/python-3.9.0-blue?style=flat-square" alt="Python 3.9.0" />
+  <a href="https://github.com/Callumgm/Clean-Python-Builder/blob/main/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
+  </a>
+  <a href="https://twitter.com/Flashouttt" target="_blank">
+    <img alt="Twitter: Flashouttt" src="https://img.shields.io/twitter/follow/Flashouttt.svg?style=social" />
+  </a>
 </p>
 
-## Build from source
-1. Download or Gitclone this project
-2. CD into the folder then run ``pyinstaller --onefile Clean_Builder.py``
+> Simple yet useful clean python file builder with ecryption option included
 
-## About
-Simple yet useful clean python file builder that deletes the uneeded files / folders after compling a python file
+## Install
 
-## Contact
-Discord - CookiesKush420#4152
-Email - Callumgm20052005@gmail.com
+```sh
+Download or Gitclone this project
+```
 
+## Usage
+
+```sh
+python Clean_Builder.py
+```
+
+## Author
+
+👤 **CookiesKush420**
+
+* Website: http://cookiesservices.xyz/
+* Twitter: [@Flashouttt](https://twitter.com/Flashouttt)
+* GitHub: [@Callumgm](https://github.com/Callumgm)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Callumgm/Clean-Python-Builder/issues). 
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2022 [CookiesKush420](https://github.com/Callumgm).<br />
+This project is [MIT](https://github.com/Callumgm/Clean-Python-Builder/blob/main/LICENSE) licensed.
