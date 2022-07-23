@@ -14,16 +14,11 @@
 
 > Simple yet useful clean python file builder with ecryption option included
 
-## Install
-
-```sh
-Download or Gitclone this project
-```
-
 ## Usage
 
 ```sh
-python Clean_Builder.py
+1. Move clean builder exe into same folder as the file u wish to compile
+2. python Clean_Builder.py
 ```
 
 ## Author
